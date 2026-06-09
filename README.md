@@ -1,6 +1,6 @@
 # Selam! Ben Muhammed Eslem 👋
 
-Karabük Üniversitesi Yazılım Mühendisliği bölümünde 3. sınıf öğrencisiyim. Teknolojiyi kullanarak yenilikçi fikirleri hayata geçirmeyi, süreçleri otomatikleştirmeyi ve interaktif dijital deneyimler sunmayı seviyorum. Şu sıralar hem masaüstü/web otomasyon projelerine hem de oyun geliştirme dünyasına odaklanmış durumdayım.
+Karabük Üniversitesi Yazılım Mühendisliği bölümünde 3. sınıf öğrencisiyim. Teknolojiyi kullanarak yenilikçi fikirleri hayata geçirmeyi, süreçleri otomatikleştirmeyi ve interaktif dijital deneyimler sunmayı seviyorum. Şu sıralar hem masaüstü/web otomasyon projelerine , okulda öğrendiğim teknolojilere hem de oyun geliştirme dünyasına odaklanmış durumdayım.
 
 ---
 
