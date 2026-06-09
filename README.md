@@ -21,4 +21,4 @@ Karabük Üniversitesi Yazılım Mühendisliği bölümünde 3. sınıf öğrenc
 ---
 
 ## 📫 Bana Ulaşın
-* 📧 [muhammedeslemdurlu@gmail.com](muhammedeslemdurlu@gmail.com)
+* ✉️ [muhammedeslemdurlu@gmail.com](mailto:muhammedeslemdurlu@gmail.com)
